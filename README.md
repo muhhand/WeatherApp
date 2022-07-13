@@ -1,4 +1,4 @@
-#  Weather App ✍🏻
-Weather App with openweathermap.org 👨🏻‍💻
+#  Weather App 
+Weather App with openweathermap.org 
 
 Weather App app is open-source  app for Android & ios. It is built with Dart on top of Google's Flutter Framework.
